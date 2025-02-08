@@ -1,3 +1,4 @@
 1-DDL Commands
-![image](https://github.com/user-attachments/assets/25d6f97a-e1f3-460d-8c5c-18a281ad84a8)
-![image](https://github.com/user-attachments/assets/3dfad7ca-ccbd-4c96-afbb-4c6ffab1316e)
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/c743a344-191f-45e4-b035-06c3ed141274" />
+![image](https://github.com/user-attachments/assets/fcfb1a84-9053-44ae-a668-7e5163aadd1e)
+
